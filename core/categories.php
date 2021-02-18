@@ -36,10 +36,8 @@ class Categories
                             WHERE id =? LIMIT 1";
         //prepare statement
         $stmt = $this->conn->prepare($query);
-
         //binding paramates
         $stmt->bindParam(1, $this->id);
-
         //execute the query
         $stmt->execute();
         $row = $stmt->fetch(PDO::FETCH_ASSOC);
@@ -52,13 +50,10 @@ class Categories
         $query = "INSERT INTO $this->table SET name = :name";
         //prepate statement
         $stmt = $this->conn->prepare($query);
-
         //clean data
         $this->name = htmlspecialchars(strip_tags($this->name));
-
         //binding of parameters
         $stmt->bindParam(':name', $this->name);
-
         //execute the query
         if ($stmt->execute()) {
             return true;
@@ -73,18 +68,14 @@ class Categories
     {
         //create query
         $query = "UPDATE $this->table SET name = :name WHERE id=:id";
-
         //prepate statement
         $stmt = $this->conn->prepare($query);
-
         //clean data
         $this->id = htmlspecialchars(strip_tags($this->id));
         $this->name = htmlspecialchars(strip_tags($this->name));
-
         //binding of parameters
         $stmt->bindParam(':id', $this->id);
         $stmt->bindParam(':name', $this->name);
-
         //execute the query
         if ($stmt->execute()) {
             return true;
@@ -101,13 +92,10 @@ class Categories
 
         //prepate statement
         $stmt = $this->conn->prepare($query);
-
         //clean data
         $this->id = htmlspecialchars(strip_tags($this->id));
-
         //binding the id parameter
         $stmt->bindParam(':id', $this->id);
-
         //execute the query
         if ($stmt->execute()) {
             return true;
