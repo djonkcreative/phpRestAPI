@@ -4,12 +4,10 @@ class Categories
     //db stuff
     private $conn;
     private $table = 'categories';
-
     //categories properties
     public $id;
     public $name;
     public $create_at;
-
     //constructor with db connection
     public function __construct($db)
     {
@@ -31,9 +29,7 @@ class Categories
     public function read_single()
     {
         //create query
-        $query = "SELECT *
-                            FROM $this->table
-                            WHERE id =? LIMIT 1";
+        $query = "SELECT * FROM $this->table WHERE id =? LIMIT 1";
         //prepare statement
         $stmt = $this->conn->prepare($query);
         //binding paramates
@@ -89,7 +85,6 @@ class Categories
     public function delete()
     {
         $query = "DELETE FROM $this->table WHERE id = :id";
-
         //prepate statement
         $stmt = $this->conn->prepare($query);
         //clean data
