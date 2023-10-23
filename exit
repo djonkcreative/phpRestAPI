@@ -1,0 +1,104 @@
+[33mcommit 1e794b93f220d2e7f9231c2e3c2473829322e842[m[33m ([m[1;36mHEAD -> [m[1;32mtim-a[m[33m, [m[1;31morigin/tim-a[m[33m)[m
+Author: irulfadil <djonkcreative@gmail.com>
+Date:   Mon Oct 23 12:52:22 2023 +0700
+
+    update file tim_a
+
+[33mcommit d8447f491c2b033abbb1ca73973248276a7904e9[m
+Author: irulfadil <djonkcreative@gmail.com>
+Date:   Mon Oct 23 12:38:54 2023 +0700
+
+    update file tim-a
+
+[33mcommit 05adcffd8c5b7266aba3c20f75906f7c2f42dfaa[m
+Author: irulfadil <djonkcreative@gmail.com>
+Date:   Mon Oct 23 12:20:05 2023 +0700
+
+    create file-tim-a
+
+[33mcommit dccf3c715a510c04fed8a7fada2629fccc11a905[m[33m ([m[1;31morigin/tim-b[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: IrulFadil <58598590+irulfadil@users.noreply.github.com>
+Date:   Sun Oct 22 13:08:03 2023 +0700
+
+    Update readme_djonkcreative.md
+    
+    perubahan format lagi .md
+
+[33mcommit a5789b885fae86767fd146c002fb36d930458951[m
+Merge: 73ee38b f897b32
+Author: IrulFadil <58598590+irulfadil@users.noreply.github.com>
+Date:   Sun Oct 22 13:05:39 2023 +0700
+
+    Merge pull request #2 from djonkcreative/patch-2
+    
+    Update readme_djonkcreative.md
+
+[33mcommit f897b32a2c4ca8d69e6a57a9fe2782f304d86339[m
+Author: djonkcreative <148669184+djonkcreative@users.noreply.github.com>
+Date:   Sun Oct 22 13:02:54 2023 +0700
+
+    Update readme_djonkcreative.md
+    
+    merapikan sesuai format .md
+
+[33mcommit 73ee38b46f321bc69ac431c639fa026c68b9f385[m
+Author: IrulFadil <58598590+irulfadil@users.noreply.github.com>
+Date:   Sun Oct 22 13:00:55 2023 +0700
+
+    Update and rename readme_djonkcreative to readme_djonkcreative.md
+    
+    Penambahan text makanan favorit
+
+[33mcommit 6c5e3d856553fd1a752f642dc29dcb2b16698b7a[m
+Merge: 938c722 d31a542
+Author: IrulFadil <58598590+irulfadil@users.noreply.github.com>
+Date:   Sun Oct 22 12:57:14 2023 +0700
+
+    Merge pull request #1 from djonkcreative/patch-1
+    
+    Create readme_djonkcreative status approve
+
+[33mcommit d31a542ec6105f6ee72390d69f675a4bd875e352[m
+Author: djonkcreative <148669184+djonkcreative@users.noreply.github.com>
+Date:   Sun Oct 22 12:50:24 2023 +0700
+
+    Create readme_djonkcreative
+    
+    commit first time "makanan favorit"
+
+[33mcommit 938c722451af94d5da833a01ff939c0564dd36a5[m
+Merge: 25debea 5f10547
+Author: irulfadil <fadilirul@gmail.com>
+Date:   Thu Feb 18 11:58:14 2021 +0700
+
+    Merge branch 'master' of https://github.com/irulfadil/phpRestAPI into master
+
+[33mcommit 25debea1c4ce2a31ba7213e16d3fef34a5a7febf[m
+Author: irulfadil <fadilirul@gmail.com>
+Date:   Thu Feb 18 11:57:29 2021 +0700
+
+    update folder core
+
+[33mcommit 5f10547d7ed21570866e7f66d6ee32c1a3bcafba[m
+Author: IrulFadil <58598590+irulfadil@users.noreply.github.com>
+Date:   Thu Feb 18 11:56:02 2021 +0700
+
+    create readme
+
+[33mcommit 6dd35d5c3f2eebd544e16c72d7ae9aa3e0d1b667[m
+Author: irulfadil <fadilirul@gmail.com>
+Date:   Thu Feb 18 11:53:12 2021 +0700
+
+    perubahan folder core
+
+[33mcommit 0653756adcb69b80dcead7ed104a65f0aa8ddd2a[m
+Author: irulfadil <fadilirul@gmail.com>
+Date:   Thu Feb 18 10:52:20 2021 +0700
+
+    firstcommit
+
+[33mcommit f168523c7ee5907a5f0c09af2a36f45e3318df96[m
+Author: irulfadil <fadilirul@gmail.com>
+Date:   Thu Feb 18 10:40:07 2021 +0700
+
+    first commit
